@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 291562d3803f3f24fa0695e06519fd45, type: 3}
+  m_Name: Building
+  m_EditorClassIdentifier: 
+  door1List:
+  - {fileID: 100000, guid: 7b6e2d78d59cb79479c8ea623000c4d8, type: 3}
+  - {fileID: 0}
+  door2List: []
+  window1List: []
+  window2List: []
+  wall: []
+  mh: {fileID: 11400000, guid: 005966b9c4d9e744a9e238f580d63f07, type: 2}
+  baseWall: {fileID: 100000, guid: 6833c6305ecb6844e8996abf87f10bbd, type: 3}
+  baseWindow1: {fileID: 100000, guid: 29f2908da1754df439ab7d785e8ad8c1, type: 3}
+  baseWindow2: {fileID: 100000, guid: 7aa709a827dcab545bf2aa0ff8227b4f, type: 3}
+  baseDoor1: {fileID: 100000, guid: 7b6e2d78d59cb79479c8ea623000c4d8, type: 3}
+  baseDoor2: {fileID: 100000, guid: 93fdce0b9e4bde14a88c49ca7a549560, type: 3}

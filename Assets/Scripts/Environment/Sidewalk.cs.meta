@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c88add22071fdaf429c404263a20def9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sidewalk: {fileID: 100000, guid: 8f8515b97594eae47bcd8306db1cb3ee, type: 3}
+  - eg: {fileID: 11400000, guid: c4cc5433596f10942b327fe282becdae, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

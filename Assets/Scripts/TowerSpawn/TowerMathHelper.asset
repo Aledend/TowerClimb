@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f46e645e89e6ea4dadc5bb50464870f, type: 3}
+  m_Name: TowerMathHelper
+  m_EditorClassIdentifier: 
+  stepData: {fileID: 11400000, guid: 9028853467e665247b26a02fd5737ce0, type: 2}
+  floorData: {fileID: 11400000, guid: 4870ec127bee3d44c91e64ac70f752d9, type: 2}
+  blueBox: {fileID: 100000, guid: b5efcec3f21985b4783a83d4c2ab8d63, type: 3}
+  greenBox: {fileID: 100000, guid: 57534405d9475ab4da138a3dfd285aab, type: 3}
+  redBox: {fileID: 100000, guid: b2276f743ce56c24388823cb464d190c, type: 3}
+  yellowBox: {fileID: 100000, guid: 24f771b4bde2b444fa2c7172bf105bcd, type: 3}
+  baseWall: {fileID: 100000, guid: 6833c6305ecb6844e8996abf87f10bbd, type: 3}
+  baseWindow1: {fileID: 100000, guid: 29f2908da1754df439ab7d785e8ad8c1, type: 3}
+  baseWindow2: {fileID: 100000, guid: 7aa709a827dcab545bf2aa0ff8227b4f, type: 3}
+  baseDoor1: {fileID: 100000, guid: 7b6e2d78d59cb79479c8ea623000c4d8, type: 3}
+  baseDoor2: {fileID: 100000, guid: 93fdce0b9e4bde14a88c49ca7a549560, type: 3}
+  autojump: 0
+  towerWidth: 12
+  eg: {fileID: 11400000, guid: c4cc5433596f10942b327fe282becdae, type: 2}

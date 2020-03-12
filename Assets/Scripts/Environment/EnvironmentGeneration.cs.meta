@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 77e4ffe71eaaabb4d98ab1eca23b328e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - genBuilding: {fileID: 11400000, guid: 46885a0516b2e384ebfdd91384b2fe0d, type: 2}
+  - genSidewalk: {fileID: 11400000, guid: 582925f6dd6ad95429ed9a3e94beb0bd, type: 2}
+  - genRoad: {fileID: 11400000, guid: 4a5414dadd315144b9c32c24f28a9ba5, type: 2}
+  - mh: {fileID: 11400000, guid: 005966b9c4d9e744a9e238f580d63f07, type: 2}
+  - cloud: {fileID: 100000, guid: 0b5ecc1b6ddf1d84ca11ec2008c04614, type: 3}
+  - stroller: {fileID: 100000, guid: 37edd4f1ac8533849ac01c36b734d78e, type: 3}
+  - cube: {fileID: 100000, guid: cb3904ffe2b50484c81da2d324e46ae5, type: 3}
+  - sphere: {fileID: 100000, guid: da233376b276d75418053f4f9454e537, type: 3}
+  - tetrahedron: {fileID: 100000, guid: 109caadd778a6a14b8df41658d3180ed, type: 3}
+  - cylinder: {fileID: 100000, guid: 30efb33323ae7b44a91e02e7aa0ad1f3, type: 3}
+  - shapeless: {fileID: 100000, guid: cd4829d6a9ef75a4cbcbc69c1c181381, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

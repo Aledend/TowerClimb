@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77e4ffe71eaaabb4d98ab1eca23b328e, type: 3}
+  m_Name: EnvironmentGeneration
+  m_EditorClassIdentifier: 
+  genBuilding: {fileID: 11400000, guid: 46885a0516b2e384ebfdd91384b2fe0d, type: 2}
+  genSidewalk: {fileID: 11400000, guid: 582925f6dd6ad95429ed9a3e94beb0bd, type: 2}
+  genRoad: {fileID: 11400000, guid: 4a5414dadd315144b9c32c24f28a9ba5, type: 2}
+  mh: {fileID: 11400000, guid: 005966b9c4d9e744a9e238f580d63f07, type: 2}
+  floorData: {fileID: 11400000, guid: 4870ec127bee3d44c91e64ac70f752d9, type: 2}
+  blueMaterials:
+  - {fileID: 2100000, guid: 2f78e598c8449be4e80fd71b935fa38b, type: 2}
+  - {fileID: 2100000, guid: 94a1ff1233996f5469bfe064e90cbf4d, type: 2}
+  - {fileID: 2100000, guid: 9d508bebf45a1f04ca4f112e56c89434, type: 2}
+  - {fileID: 2100000, guid: 84d13a39d809a62469adb176cf1f7c2c, type: 2}
+  - {fileID: 2100000, guid: 22e71d5965c5cd049962780a3d86a3f5, type: 2}
+  orangeMaterials:
+  - {fileID: 2100000, guid: 08038b017f1b4f648ab12edbbe87a8bf, type: 2}
+  - {fileID: 2100000, guid: c0497f863b3bbb640b64116e373ef2ca, type: 2}
+  - {fileID: 2100000, guid: 77fffc4ea4a4f80449d18bd329d94c55, type: 2}
+  - {fileID: 2100000, guid: 743673390e7b94942a36b15f1eb45913, type: 2}
+  - {fileID: 2100000, guid: b7c229c53db2987488a5383e04e6ee12, type: 2}
+  characterMaterials:
+  - {fileID: 2100000, guid: ecbca2e7af9b91a47b98544a594151f9, type: 2}
+  - {fileID: 2100000, guid: f27574615896dfe4cb20cc85132c7023, type: 2}
+  - {fileID: 2100000, guid: 0e0ab00872980754fae6641da9b4f759, type: 2}
+  - {fileID: 2100000, guid: 4651b4462055462448e561bb68d1186c, type: 2}
+  - {fileID: 2100000, guid: 0592ae5b8e7ab8e4995e3950f33e28ad, type: 2}
+  - {fileID: 2100000, guid: 6cc4ceaf6c2687a4ea3169b0b0fa4ef0, type: 2}
+  - {fileID: 2100000, guid: 61bd575696ba86b45908d8a36b760b62, type: 2}
+  - {fileID: 2100000, guid: 90e594e85069fbc4881542936ca0e9f6, type: 2}
+  - {fileID: 2100000, guid: 58e07d485daefd74ea562a2a9017bb44, type: 2}
+  - {fileID: 2100000, guid: d3f202216a0a82440826ba6d7fe84ef9, type: 2}
+  - {fileID: 2100000, guid: dfe9c13a30ca598459a10bb08429ce4c, type: 2}
+  - {fileID: 2100000, guid: 8c4f8fa5b8b6b7d409c16966fae494cc, type: 2}
+  - {fileID: 2100000, guid: 801fd4b290f9b0b4da95820218b32396, type: 2}
+  - {fileID: 2100000, guid: 9fdfadefabc399b44b8dd99dca3dec33, type: 2}
+  - {fileID: 2100000, guid: ef396b98c7faa0047a45f297f19b1987, type: 2}
+  - {fileID: 2100000, guid: 6844d5443873fa94db3ad95b6fd829e7, type: 2}
+  - {fileID: 2100000, guid: c52048c3704c18b45b5f3716695cf7ad, type: 2}
+  - {fileID: 2100000, guid: ebc662fe3e1e4394cba97675726fbebb, type: 2}
+  cloud: {fileID: 100000, guid: 0b5ecc1b6ddf1d84ca11ec2008c04614, type: 3}
+  stroller: {fileID: 100000, guid: 37edd4f1ac8533849ac01c36b734d78e, type: 3}
+  cube: {fileID: 100000, guid: cb3904ffe2b50484c81da2d324e46ae5, type: 3}
+  sphere: {fileID: 100000, guid: da233376b276d75418053f4f9454e537, type: 3}
+  tetrahedron: {fileID: 100000, guid: 109caadd778a6a14b8df41658d3180ed, type: 3}
+  cylinder: {fileID: 100000, guid: 30efb33323ae7b44a91e02e7aa0ad1f3, type: 3}
+  shapeless: {fileID: 100000, guid: cd4829d6a9ef75a4cbcbc69c1c181381, type: 3}
+  testgm: {fileID: 0}
+  infoText: {fileID: 0}
